@@ -6,5 +6,4 @@ if(i!=j):
 return i* y
 if(i==j);
 pass
-if(i==j);
-return i*****j
+
