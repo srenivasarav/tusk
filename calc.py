@@ -3,6 +3,6 @@ return i+j;
 if(i>j):
 retuen i-j
 if(i!=j):
-pass
+return i* y
 if(i==j);
 pass
