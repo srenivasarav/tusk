@@ -1,7 +1,7 @@
 if(i<j):
 return i+j;
 if(i>j):
-pass
+retuen i-j
 if(i!=j):
 pass
 if(i==j);
